@@ -6,7 +6,7 @@ BIO
 
 - 🏢 I'm currently working at Code Precision sp.z.o.o
 - ⚙️ I use daily: .ts, .js, .sql, .yml, .yaml, .*
-- 🌍 I'm mostly active within the NestJs Community
+- 🌍 I'm mostly active within the NestJs Community, Typescript, Javascript, Bun
 - 🌱 Currently focus to creating boilerplate for Choreography Microservices
 
 
